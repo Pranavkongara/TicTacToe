@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Tic-Tac-Toe</string>
+    <string name="vs_player">Vs Player</string>
+    <string name="vs_computer">Vs Computer</string>
+    <string name="easy">easy</string>
+    <string name="medium">medium</string>
+    <string name="hard">hard</string>
+    <string name="impossible">Impossible</string>
+    <string name="two_player">Two Player</string>
+    <string name="network">Network</string>
+    <string name="play">Play</string>
+    <string name="stats">Stats</string>
+    <string name="exit">Exit</string>
+    <string name="play_again">Play Again</string>
+    <string name="player_x_turn">Player X Turn</string>
+    <string name="waiting_for_opponent">Waiting for Opponent</string>
+    <string name="back">Back</string>
+    <string name="privacy_policy"><u>Privacy Policy</u></string>
+</resources>
